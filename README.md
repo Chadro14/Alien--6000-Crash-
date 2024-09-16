@@ -1,10 +1,8 @@
 **Alien-6000-crash 
 
-</p>
-<p align="center">
-  <a href="https://chat.whatsapp.com/Ej9x9ouh2CF4j6Vb5TfN1m">
 
-
+       href="https://chat.whatsapp.com/Ej9x9ouh2CF4j6Vb5TfN1m" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
  /><br>
 <a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
 <a href="https://t.me/lawliet_kfx">
