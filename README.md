@@ -1,23 +1,21 @@
-<h1 align="center">👾 𝚃𝙾𝙶𝙴-𝙱𝚄𝙶-𝙰𝙸 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃 👾<br></h1>
+<h1 align="center">☣️ Alien-6000-Crash 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃 👾<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/313db89477904f64887b0.jpg" />
+<img src="" />
 </p>
 
 <p align="center">
-TOGE-BUG-AI Multi Device is a whatsapp bot developed by <a href="https://github.com/toge012345" target="_blank">toge</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+TOGE-BUG-AI Multi Device is a whatsapp bot developed by <a href="https://github.com/Chadro14" target="_blank">toge</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
-<a href="https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 
-## ```Connect With Me```
-<p align="center">
-<a href="https://youtube.com/@kenzo3146"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@kenzo3146" /><br>
-<a href="https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
+ /><br>
+<a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
 <a href="https://t.me/lawliet_kfx"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/lawliet.kfx?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
@@ -28,11 +26,11 @@ TOGE-BUG-AI Multi Device is a whatsapp bot developed by <a href="https://github.
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/toge012345/TOGE-BUG-AI/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Chadro14/Alien--6000-Crash/fork)
 
 ## `Generate Pair or Qr Code For Session`
 
-<a href="https://session-web.onrender.com/" target="_blank">
+<a href="">
   <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -110,5 +108,3 @@ npm start
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
-## `💀DEVELOPER💀` 
-<a href="https://github.com/toge012345"><img src="https://github.com/toge012345.png" width="250" height="250" alt="toge012345"/></a>
