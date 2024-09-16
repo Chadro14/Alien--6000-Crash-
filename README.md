@@ -1,8 +1,8 @@
 **Alien-6000-crash 
 
-<p align="center">
-<a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
+<p align="center">
+  <a href="https://chat.whatsapp.com/Ej9x9ouh2CF4j6Vb5TfN1m">
 
 
  /><br>
