@@ -1,4 +1,4 @@
-**Alien-6000-crash 
+### Alien--6000-Crash
 
 
        
@@ -14,16 +14,16 @@
 - [`1st GC`](https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo)
 
 
-# Setup For Deployment 👇
+# plateforme du déploiement 
 
-- FORK THE REPOSITORY [Here] <a href='https://github.com/altesse066/Alien-6000-Crash/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+- FORK THE REPOSITORY [Here] <a href='https://github.com/altesse066/Alien--6000-Crash/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-## `Generate Pair or Qr Code For Session`
+## `la session `
 
 <a href="">
   <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=<a href=https://chadro-session-1.onrender.com>
   <img      
-#### DEPLOY TO PANEL
+#### déploiement PANEL
  If You don't have a account in Panel. Create a account.
     <br>
 <a href='https://bot-hosting.net/login' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode'/></a>
@@ -31,7 +31,7 @@
 Now Deploy
     <br>
 <a href='https://bot-hosting.net/' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>  
-#### DEPLOY TO HEROKU 
+#### Déploiement HEROKU 
 ☉ If You don't have a account in Heroku. Create a account.
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
@@ -43,7 +43,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
     <br>
 <a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ftoge012345%2FTOGE-AI-BUG%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2Ftoge012345%2FTOGE-AI-BUG%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
-#### DEPLOY TO REPLIT
+#### Déploiement Replit
  If You don't have an account in Replit. Create a account.
     <br>
 <a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
@@ -52,7 +52,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
     <br>
     <a href='https://repl.it/github/toge012345/TOGE-BUG-AI' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
-#### DEPLOY TO CODESPACE
+#### Département CODESPACE
 
  If You don't have a account in Codespace. Create a account.
     <br>
@@ -75,8 +75,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/toge012345/TOGE-BUG-AI
-cd TOGE-BUG-AI
+git clone https://github.com/Chadro14/Alien--6000-crash
+cd Alien--6000-Crash
 yarn install
 npm start
 ```
