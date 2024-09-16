@@ -2,9 +2,7 @@
 
 
        
- /><br>
-<a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/lawliet_kfx">
+ 
 
 <br> 
 <p align="center">
