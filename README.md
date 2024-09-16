@@ -16,14 +16,13 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Chadro14/Alien--6000-Crash/fork)
+- FORK THE REPOSITORY [Here] <a href='https://github.com/altesse066/Alien-6000-Crash/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ## `Generate Pair or Qr Code For Session`
 
 <a href="">
-  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>
-
+  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=<a href=https://chadro-session-1.onrender.com>
+  <img      
 #### DEPLOY TO PANEL
  If You don't have a account in Panel. Create a account.
     <br>
