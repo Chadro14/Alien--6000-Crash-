@@ -1,11 +1,4 @@
-<h1 align="center">☣️ Alien-6000-Crash 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃 👾<br></h1>
-<p align="center">
-<img src="" />
-</p>
-
-<p align="center">
-TOGE-BUG-AI Multi Device is a whatsapp bot developed by <a href="https://github.com/Chadro14" target="_blank">toge</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
+**Alien-6000-crash 
 
 <p align="center">
 <a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
@@ -15,10 +8,7 @@ TOGE-BUG-AI Multi Device is a whatsapp bot developed by <a href="https://github.
  /><br>
 <a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
 <a href="https://t.me/lawliet_kfx"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/lawliet.kfx?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
-</p>
-
+<a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><
 ## ```Bot Support Group Chats```
 
 - [`1st GC`](https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo)
