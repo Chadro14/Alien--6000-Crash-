@@ -7,8 +7,13 @@
 
  /><br>
 <a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/lawliet_kfx"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I"><
+<a href="https://t.me/lawliet_kfx">
+
+<br> 
+<p align="center">
+<a href="https://Wa.me/+243822809152"><img src="https://img.shields.io/badge/Contact Chadro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaivDmh4NVieblSgij2d"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a 
 ## ```Bot Support Group Chats```
 
 - [`1st GC`](https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo)
