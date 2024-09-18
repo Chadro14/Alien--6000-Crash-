@@ -10,7 +10,7 @@ global.location = "Africa, Rdcongo, Kinshasa"
 
 global.ownernumber = '243822809152'  //creator number
 global.ownername = 'Chadro' //owner name
-global.botname = 'Alien--600-Crash' //name of the bot
+global.botname = 'Alien--6000-Crash' //name of the bot
 
 //sticker details
 global.packname = 'Alien--6000-Crash'
