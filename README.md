@@ -16,7 +16,7 @@
 
 # plateforme du déploiement 
 
-- FORK THE REPOSITORY [Here] <a href='https://github.com/altesse066/Alien--6000-Crash/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+- FORK THE REPOSITORY [Here] <a href='https://github.com/Chadro14/Alien--6000-Crash/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ## `la session `
 
