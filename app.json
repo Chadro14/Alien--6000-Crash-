@@ -1,8 +1,8 @@
 {
   "name": "Alien--6000-Crash",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/toge012345/TOGE-MD",
-  "logo": "https://telegra.ph/file/e032a107c82cac9702783.jpg",
+  "repository": "https://github.com/Chadro14/Alien--6000-Crash-",
+  "logo": "https://telegra.ph/file/26aae87c1132897112fc0.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
