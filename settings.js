@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243822809152"
+global.ownernomer = "243905526836"
 global.ownername = "Chadro"
 global.ytname = "kenzo3146"
 global.socialm = "GitHub: Chadro14"
 global.location = "Africa, Rdcongo, Kinshasa"
 
-global.ownernumber = '243822809152'  //creator number
+global.ownernumber = '243905526836'  //creator number
 global.ownername = 'Chadro' //owner name
 global.botname = 'Alien--6000-Crash' //name of the bot
 
@@ -21,7 +21,7 @@ global.themeemoji = '📵'
 global.wm = "Chadro"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VanIuxpAojZ0myZwYm2I'
+global.link = 'https://whatsapp.com/channel/0029VayWfvF17Emnix7wdR3X'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
