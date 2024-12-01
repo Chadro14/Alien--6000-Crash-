@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "toge012345",
+    "author": "Chadro14",
     "license": "Apache-2.0",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
